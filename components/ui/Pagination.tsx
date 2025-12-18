@@ -24,6 +24,8 @@ export function Pagination({
         pages.push(i);
       }
     } else {
+ 
+      pages.push(1);
 
       if (currentPage > 3) {
         pages.push("...");

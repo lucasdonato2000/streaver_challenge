@@ -62,7 +62,7 @@ Start the development server:
 npm run dev
 ```
 
-Open [http://localhost:3000/posts](http://localhost:3000/posts) in your browser.
+Open [http://localhost:3000](http://localhost:3000) in your browser. The application will automatically redirect to the posts page.
 
 ## Features
 
